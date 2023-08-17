@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "book_my_event", "book_my_event\", "{E3ACED23-583A-4DB9-8CE1-FC9D3753F984}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52987"
+		Debug.AspNetCompiler.PhysicalPath = "book_my_event\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52987\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52987"
+		Release.AspNetCompiler.PhysicalPath = "book_my_event\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52987\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52987"
+		SlnRelativePath = "book_my_event\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3ACED23-583A-4DB9-8CE1-FC9D3753F984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3ACED23-583A-4DB9-8CE1-FC9D3753F984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {372A76B5-5874-4308-A5FB-7E169CCA72FF}
+	EndGlobalSection
+EndGlobal
