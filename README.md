@@ -21,7 +21,7 @@ Book My Event is a dynamic event booking platform crafted with ASP.NET, designed
 To get your local copy up and running, follow these simple steps:
 
 ```bash
-git clone https://github.com/yourusername/BookMyEvent.git
+git clone https://github.com/dhruvpuri-goswami/book_my_event.git
 cd book_my_event
 # Install dependencies
 dotnet restore
